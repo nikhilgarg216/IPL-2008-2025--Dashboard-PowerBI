@@ -2,7 +2,7 @@
 
 Analyzing 18 seasons of Indian Premier League data to uncover batting, bowling, team, and match insights using **Power BI Desktop**, **Power Query**, **DAX**, **Data Modeling**, and **GitHub**.
 
-![Home Page](screenshots/Home.png)
+![Home Page](Home.png)
 
 ---
 
@@ -212,7 +212,7 @@ Toss Win & Match Win =
 The Power BI dashboard has **3 interactive pages**:
 
 ### 🏠 Home Page
-![Home](screenshots/Home.png)
+![Home Page](Home.png)
 - IPL branding with season selector (2008–2025)
 - 2025 Champion display — Royal Challengers Bangalore
 - Navigation buttons to Insight and Statistics pages
@@ -220,7 +220,7 @@ The Power BI dashboard has **3 interactive pages**:
 ---
 
 ### 📊 Insight Page
-![Insight](screenshots/Insights.png)
+![Insight](Insights.png)
 - **KPI Cards:** Total 6s · Total 4s · Total Matches · Teams · Centuries · Half Centuries · Venues
 - Orange Cap & Purple Cap winner with player photos
 - Season-wise Points Table with team logos
@@ -230,7 +230,7 @@ The Power BI dashboard has **3 interactive pages**:
 ---
 
 ### 📈 Statistics Page
-![Statistics](screenshots/Statistics.png)
+![Statistics](Statistics.png)
 - **KPI Cards:** Top Scorer · Most Wickets · Most Sixes · Highest Score · Most Matches City
 - Batting Avg vs Strike Rate bubble scatter chart (top players)
 - All-Time Team Wins horizontal bar chart
@@ -271,11 +271,11 @@ git clone https://github.com/nikhil3596/ipl-analysis-dashboard.git
 ## Author & Contact
 
 **Nikhil Garg**
-Frontend Developer | Data Analyst
+Data Analyst | Power BI • SQL • Python • Excel
 
 📧 Email: [nikhilgarg216@gmail.com](mailto:nikhilgarg216@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/nikhil3596](https://www.linkedin.com/in/nikhil3596/)
-🔗 GitHub: [github.com/nikhil3596](https://github.com/nikhil3596)
+🔗 GitHub: [github.com/nikhilgarg216](https://github.com/nikhilgarg216)
 
 ---
 
