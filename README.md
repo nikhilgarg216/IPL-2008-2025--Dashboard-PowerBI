@@ -2,7 +2,7 @@
 
 Analyzing 18 seasons of Indian Premier League data to uncover batting, bowling, team, and match insights using **Power BI Desktop**, **Power Query**, **DAX**, **Data Modeling**, and **GitHub**.
 
-![Home Page](Home.png)
+![Home Page](/Images/Home.png)
 
 ---
 
@@ -212,7 +212,7 @@ Toss Win & Match Win =
 The Power BI dashboard has **3 interactive pages**:
 
 ### 🏠 Home Page
-![Home Page](Home.png)
+![Home Page](/Images/Home.png)
 - IPL branding with season selector (2008–2025)
 - 2025 Champion display — Royal Challengers Bangalore
 - Navigation buttons to Insight and Statistics pages
@@ -220,7 +220,7 @@ The Power BI dashboard has **3 interactive pages**:
 ---
 
 ### 📊 Insight Page
-![Insight](Insights.png)
+![Insight](/Images/Insights.png)
 - **KPI Cards:** Total 6s · Total 4s · Total Matches · Teams · Centuries · Half Centuries · Venues
 - Orange Cap & Purple Cap winner with player photos
 - Season-wise Points Table with team logos
@@ -230,7 +230,7 @@ The Power BI dashboard has **3 interactive pages**:
 ---
 
 ### 📈 Statistics Page
-![Statistics](Statistics.png)
+![Statistics](/Images/Statistics.png)
 - **KPI Cards:** Top Scorer · Most Wickets · Most Sixes · Highest Score · Most Matches City
 - Batting Avg vs Strike Rate bubble scatter chart (top players)
 - All-Time Team Wins horizontal bar chart
